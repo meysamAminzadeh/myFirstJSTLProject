@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="jstl library">
+    <CLASSES>
+      <root url="file://D:/JavaeeAPP/jstl library" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+    <jarDirectory url="file://D:/JavaeeAPP/jstl library" recursive="false" />
+  </library>
+</component>
